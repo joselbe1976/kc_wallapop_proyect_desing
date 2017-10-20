@@ -16,8 +16,4 @@ Notas del Diseño
 
 Pantallas diseñadas:
 
-<img src = "https://github.com/joselbe1976/kc_wallapop_proyect_desing/blob/master/screens/01.Principal.png" width="120px">
-
-<img src = "https://github.com/joselbe1976/kc_wallapop_proyect_desing/blob/master/screens/02.Menu.png" width="120px">
-
-<img src = "https://github.com/joselbe1976/kc_wallapop_proyect_desing/blob/master/screens/03.ProductDetail.png" width="121px"><img src = "https://github.com/joselbe1976/kc_wallapop_proyect_desing/blob/master/screens/04.Buscador.png" width="125px">
+<img src = "https://github.com/joselbe1976/kc_wallapop_proyect_desing/blob/master/screens/githubgif.gif" width="250px">
